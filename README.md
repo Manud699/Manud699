@@ -1,16 +1,13 @@
-## Hi there 👋
+# hola/hello/привет  👋
 
-<!--
-**Manud699/Manud699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante en la Universidad ИТМО(СППО).
 
-Here are some ideas to get you started:
+📚 **¿Qué estoy haciendo ahora mismo?**
+- Estudiante de primer año
+- Estare subiendo el proceso de los laboratorios aqui.
+- Convirtiendo mi domingo en un día de exploración en gitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Lenguajes y tecnologías que estoy aprendiendo:**
+- Java y PostgreSQL
+- Git y GitHub
+
