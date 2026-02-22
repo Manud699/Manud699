@@ -1,6 +1,6 @@
 # hola/hello/привет  👋
 
-Estudiante en la Universidad ИТМО(СППО).
+Estudiante de la Universidad ИТМО(СППО).
 
 📚 **¿Qué estoy haciendo ahora mismo?**
 - Estudiante de primer año
