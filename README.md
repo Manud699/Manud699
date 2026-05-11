@@ -1,13 +1,7 @@
-# hola/hello/привет  👋
+# hola/hello/привет or Sdrasduitieeeee
 
 Estudiante de la Universidad ИТМО(СППО).
 
-📚 **¿Qué estoy haciendo ahora mismo?**
-- Estudiante de primer año
-- Estare subiendo el progreso de los laboratorios aqui.
+ Por el momento solo labs de itmo  
 
-
-💻 **Lenguajes y tecnologías que estoy aprendiendo:**
-- Java y PostgreSQL
-- Git y GitHub
 
